@@ -1,6 +1,6 @@
 # Algo1
 
-A  anyagrész folyamatosan bővülni fog a a félév folyamán.
+Az  anyagrész folyamatosan bővülni fog a a félév folyamán.
 
 # Hasznos linkek
 [Dr. Ásványi Tibor honlapja](http://aszt.inf.elte.hu/~asvanyi/ad/).  
