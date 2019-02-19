@@ -1,4 +1,4 @@
-# Algo1
+# Algoritmusok és Adatszerkezetek I.
 
 Az  anyagrész folyamatosan bővülni fog a a félév folyamán.
 
