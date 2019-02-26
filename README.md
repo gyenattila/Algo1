@@ -8,4 +8,7 @@ Az  anyagrész folyamatosan bővülni fog a a félév folyamán.
 [Veszprémi Anna tanárnő honlapja](https://people.inf.elte.hu/veanna/alg1/index.html). Itt találhatók listás feladatok, Lengyel forma, AVL fák. 
 
 ## Rendezések összehasonlítása  
-[Visualisation and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc&t=54s)
+[Visualisation and Comparison of Sorting Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc&t=54s)  
+
+## Lengyel-forma  
+[Veszprémi Anna tanárnő honlapja](https://people.inf.elte.hu/veanna/algo1_alkmat/segedanyagok/LengyelForma/index.htm)
