@@ -1,6 +1,6 @@
 # Algoritmusok és Adatszerkezetek I.
 
-Az  anyagrész folyamatosan bővülni fog a a félév folyamán.
+Az  anyagrész folyamatosan bővülni fog a félév folyamán.
 
 # Hasznos linkek
 [Dr. Ásványi Tibor honlapja](http://aszt.inf.elte.hu/~asvanyi/ad/).  
